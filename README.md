@@ -14,4 +14,4 @@ In this case study, you step into the role of a junior data analyst at Bellabeat
 Software - R Studio, Tableau Desktop, Kaggle.
 Dataset - FitBit Tracker Data [Link](https://www.kaggle.com/datasets/arashnic/fitbit)
 ### HTML Document
-[Click]("https://hrithiksh28.github.io/CyclisticBikeShareAnalysis/") to View Project
+[Click](https://hrithiksh28.github.io/CyclisticBikeShareAnalysis/) to view the Project
